@@ -30,12 +30,15 @@ Desenvolvi um script em **VBA (Visual Basic for Applications)** que atua como um
 ## Demonstração
 **Código no Visual Basic:**
 <img width="1763" height="706" alt="{6A76E3E3-7E2D-475A-ACA6-1AF67BEA9AF3}" src="https://github.com/user-attachments/assets/82a7e3d7-5dc0-45fe-9a9b-41a00b491a44" />
+
 **Execução do código:**
 <img width="1159" height="434" alt="{7A69154E-9826-4F37-AC13-C9FD89CA987C}" src="https://github.com/user-attachments/assets/9c78fb9c-1000-4cdc-95cc-64f8b39635ae" />
 <img width="839" height="508" alt="{C991EDDF-8B6D-4971-B28E-E5645C60A40C}" src="https://github.com/user-attachments/assets/b5d94b82-93f7-4127-a4dd-a3d6e50c9261" />
+
 **Conclusão:**
 <img width="856" height="361" alt="{C905FAFB-6483-4010-B037-40E5FD97B1C6}" src="https://github.com/user-attachments/assets/790e7b60-10a2-449f-8800-8903ac15b1f9" />
-<img width="1695" height="274" alt="{51D7DD4B-F50E-44F7-A801-EBAE45F08311}" src="https://github.com/user-attachments/assets/c857545b-3587-42d4-a08e-28e70e52d800" />
+<img width="1658" height="286" alt="{6B71E9E5-AB63-4FEE-8711-72F778B0DC44}" src="https://github.com/user-attachments/assets/c7fea7c1-bc1f-4bc5-b907-2164f1fdf698" />
+
 
 ## Como Usar
 1. Exporte o relatório do Pipefy em `.csv`.
