@@ -32,8 +32,8 @@ Neste repositório, exploro os seguintes conceitos:
 
 ## Contato
 
-* **Autor:** [Letícia Schechtel]
-* **E-mail:** [leticiaschechtel@gmail.com]
+* **Autor:** Letícia Schechtel
+* **E-mail:** leticiaschechtel@gmail.com
 
 ---
 *Este repositório é para fins de estudo e portfólio.*
