@@ -56,3 +56,4 @@ Desenvolvi uma solução "Full Microsoft Stack" para sanear e auditar os dados:
 * **Fórmulas Avançadas:** `XLOOKUP`, `INDEX/MATCH` e lógica condicional para validação cruzada.
 
 ---
+*Projeto desenvolvido em período de estágio*
