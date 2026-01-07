@@ -15,7 +15,7 @@ A solução consiste num **pipeline de dados automatizado** que ingere dados bru
 
 ---
 
-## O Problema
+## Problema
 
 * **Cenário:** Inventário físico realizado manualmente, sala a sala.
 * **Dores:**
@@ -24,7 +24,7 @@ A solução consiste num **pipeline de dados automatizado** que ingere dados bru
     * Dificuldade em identificar ativos transferidos de outras unidades (Curitiba, Maringá, etc.).
     * Tempo excessivo para consolidar "O que está na sala" vs "O que deveria estar".
 
-## A Solução Aplicada
+## Solução
 
 Desenvolvi uma solução "Full Microsoft Stack" para sanear e auditar os dados:
 
@@ -48,7 +48,7 @@ Desenvolvi uma solução "Full Microsoft Stack" para sanear e auditar os dados:
 
 ---
 
-##  Tecnologias Utilizadas
+##  Ferramentas
 
 * **Microsoft Excel:** Interface principal e armazenamento de dados.
 * **Power Query (Linguagem M):** Para limpeza, transformação e modelagem dos dados brutos.
